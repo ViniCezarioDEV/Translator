@@ -1,2 +1,2 @@
-Owner: Vinicius Cezario (ME)\n
+Owner: Vinicius Cezario (ME)<br/>
 Colaborator: Caroline 
